@@ -42,7 +42,7 @@ Restart the game or change player names at any time.
 
 ```
 ## Demo
-https://three-piece-game.netlify.app/
+- [Three Piece Game](https://three-piece-game.netlify.app/)
 
 ## Credit
 Developed By Atharva B. Kadam
